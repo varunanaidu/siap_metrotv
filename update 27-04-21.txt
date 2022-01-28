@@ -1,0 +1,12 @@
+Hover deskripsi item grafis (V)
+Deadline daily pakai jam (V)
+Nama program rename jadi nama project (V)
+Batasan ukuran file lampiran (nanti diupdate)
+Log jika edit (V)
+Lampiran dikasih info tekan shift kalo mau banyak files (V)
+Notif masuk ke email (V)
+Handover kerjaan ke orang lain, KPI dibagi 2 (V 1/2)
+Edit delete bisa kalo belom semua task di assign (V)
+Admin bisa ganti assignment orang (V)
+Admin bisa take orderan jg (V)
+Tambahin others di item grafis
